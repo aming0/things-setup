@@ -1,6 +1,6 @@
 # things-setup
 
-## 📦 debian-docker-install.sh: Docker Setup Script for Debian
+## 📦 debian-docker-install.sh
 
 Contains a shell script to easily install Docker Engine and related tools on a Debian-based system.
 
